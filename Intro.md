@@ -34,3 +34,5 @@ Pour tester le jeu, voici un lien spécialement préparé pour vous : [Jouez à 
 N'oubliez pas : tester est une étape essentielle du développement de jeux. Cela vous aide à comprendre ce qui fonctionne, ce qui peut être amélioré, et surtout, à voir votre jeu à travers les yeux des joueurs 🕵️‍♂️.
 
 Voilà ton arsenal! Prêt à commencer cette aventure? Dans les prochaines étapes, nous allons apprendre à assembler ces éléments pour donner vie à notre jeu.
+
+[Début du tuto](https://github.com/g404-code-gaming/BirdHunt/blob/main/Création-Du-Jeu/1.Le%20Tir.md)
