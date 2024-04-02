@@ -27,9 +27,10 @@ Voici tout ce dont vous aurez besoin pour créer notre version de Duck Hunt:
 ![MenuPrincipal](Création-Du-Jeu/Images/MenuPrincipal.png)
 
 # 🎮 Tester le Jeu 🎮
+
 Après avoir progressé dans la création de notre Duck Hunt moderne, il est crucial de tester 🕹️ votre chef-d'œuvre. Tester le jeu vous permet de repérer les bugs 🐛, améliorer les mécaniques de jeu et s'assurer que l'expérience est aussi amusante que prévue!
 
-Pour tester le jeu, voici un lien spécialement préparé pour vous : [Jouez à notre Duck Hunt!](https://gd.games/instant-builds/0458f593-b809-4ea5-8fd6-f64e82596739) 
+Pour tester le jeu, voici un lien spécialement préparé pour vous : [Jouez à notre Duck Hunt!](https://gd.games/instant-builds/225b934d-d55b-42c2-b9e7-b175a16a088d) 
 
 N'oubliez pas : tester est une étape essentielle du développement de jeux. Cela vous aide à comprendre ce qui fonctionne, ce qui peut être amélioré, et surtout, à voir votre jeu à travers les yeux des joueurs 🕵️‍♂️.
 
